@@ -9,7 +9,8 @@ Please refer to the instructions for how to install this plugin offline in Chrom
 Source URL：http://googlehelper.net
 
 
-＃Update on May 9：注意！
+＃5月9日更新：注意！！！
+=====================
 由于git数据库被墙导致无法访问
 插件下载点击上面的URL地址即可
 
