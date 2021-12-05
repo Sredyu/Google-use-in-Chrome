@@ -1,5 +1,6 @@
 # Google-use-in-Chrome
-This is a method for how Chrome newbies do Google operations
+This is a method for how Chrome newbies do Google operations    
+
 一种在Chrome浏览器中使用google的方法
 
 Source URL：http://googlehelper.net
